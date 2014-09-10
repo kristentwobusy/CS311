@@ -10,9 +10,9 @@
 #include <string>
 using namespace std;
 
-  typedef string el_t;          // el_t is an alias for the data type
+  typedef string el_t; // el_t is an alias for the data type
 
-  const int MAX_SIZE = 26;  // this is the max number of elements
+  const int MAX_SIZE = 25; // this is the max number of elements
 
 class queue
 {
